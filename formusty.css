@@ -1,0 +1,38 @@
+body{
+    background-color: teal;
+}
+.btn1{
+    background-color: purple;
+    border-radius: 2px;
+     
+}
+.btn2{
+    background-color: purple;
+    border-radius: 2px;
+     
+}
+.btn3{
+    background-color: purple;
+    border-radius: 2px;
+
+}
+.centrarbtn{
+    text-align: center; 
+
+}
+#producto{
+    background-color:purple;
+    color: rgb(255, 255, 255);
+}
+#resultado{
+    background-color: rgb(245, 241, 241);
+    border-radius: 20px;
+      
+
+}
+#mostrarResultado{
+    background-color: red;
+    border-radius:20px;
+
+}
+  
